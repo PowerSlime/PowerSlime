@@ -39,7 +39,7 @@ I'm keen on diving deep in DevOps and machine learning. Also, like to take photo
       </td>
       <td align="center">
         <img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=powerslime&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" />
-        <img width="550px" src="https://github-readme-stats.vercel.app/api?username=powerslime&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" />
+        <img width="550px" src="https://github-readme-stats.vercel.app/api?username=powerslime&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" />
       </td>
     </tr>
   </tbody>
